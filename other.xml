@@ -1,0 +1,14 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/Laravel.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.7.0" last-modified="1507909290000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.5.0/bin/node" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
+  </component>
+</application>
