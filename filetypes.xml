@@ -5,15 +5,16 @@
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
       <mapping ext="php_cs" type="PHP" />
+      <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.backup" type="PLAIN_TEXT" />
       <mapping pattern="current" type="PLAIN_TEXT" />
-      <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.copy" type="PLAIN_TEXT" />
-      <mapping ext="groovy" type="PLAIN_TEXT" />
-      <mapping ext="org" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="org" type="PLAIN_TEXT" />
+      <mapping ext="groovy" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping pattern="conversation" type="SVG" />
       <mapping ext="liquid" type="Twig" />
