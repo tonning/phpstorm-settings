@@ -8,6 +8,7 @@
       <mapping ext="php_cs" type="PHP" />
       <mapping pattern=".env.backup" type="PLAIN_TEXT" />
       <mapping pattern="current" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.copy" type="PLAIN_TEXT" />
