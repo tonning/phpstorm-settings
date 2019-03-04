@@ -4,7 +4,7 @@
     <property name="created">2019-03-02T11:20:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-03-04T10:56:43</property>
+    <property name="modified">2019-03-04T14:30:17</property>
     <property name="originalScheme">Spacegray Operator Mono</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -605,7 +605,7 @@
     </option>
     <option name="PHP_CLASS">
       <value>
-        <option name="FOREGROUND" value="d975b1" />
+        <option name="FOREGROUND" value="bf616a" />
       </value>
     </option>
     <option name="PHP_COMMA">
@@ -622,7 +622,7 @@
     </option>
     <option name="PHP_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="e6d17e" />
+        <option name="FOREGROUND" value="ccb870" />
       </value>
     </option>
     <option name="PHP_DOC_COMMENT_ID">
@@ -680,7 +680,7 @@
     </option>
     <option name="PHP_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="c0c5ce" />
+        <option name="FOREGROUND" value="c3c8d2" />
       </value>
     </option>
     <option name="PHP_INTERFACE">
@@ -742,7 +742,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="c2c6cf" />
+        <option name="FOREGROUND" value="cc6da6" />
       </value>
     </option>
     <option name="REGEXP.INVALID_STRING_ESCAPE">
