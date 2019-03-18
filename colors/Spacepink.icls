@@ -1,11 +1,11 @@
-<scheme name="Spacegray Operator Mono copy" version="142" parent_scheme="Default">
+<scheme name="Spacepink" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-03-02T11:20:48</property>
+    <property name="created">2019-03-18T13:58:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-03-07T13:17:19</property>
-    <property name="originalScheme">Spacegray Operator Mono</property>
+    <property name="modified">2019-03-18T13:58:20</property>
+    <property name="originalScheme">Spacegray Operator Mono copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <option name="EDITOR_FONT_SIZE" value="18" />
