@@ -1,13 +1,5 @@
 <application>
   <component name="TextMateSettings">
-    <option name="bundles">
-      <list>
-        <BundleConfigBean>
-          <option name="name" value="Groovy" />
-          <option name="path" value="$USER_HOME$/Downloads/groovy.tmbundle-master" />
-        </BundleConfigBean>
-      </list>
-    </option>
     <option name="themesMapping">
       <map>
         <entry key="All hallow's eve" value="All Hallow's Eve" />
