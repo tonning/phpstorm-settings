@@ -5,6 +5,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
+      <mapping pattern="artisan" type="PHP" />
       <mapping ext="php_cs" type="PHP" />
       <mapping pattern=".env.backup" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
