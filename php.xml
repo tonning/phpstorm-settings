@@ -160,4 +160,9 @@
   <component name="PhpSmartKeysConfiguration">
     <option name="smartFunctionParametersCompletion" value="true" />
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="4fd8285b-0a19-4f41-a72a-9d1c2ea76084" load_method="CUSTOM_LOADER" custom_loader_path="/home/vagrant/sites/beabubs/vendor/autoload.php" phpunit_phar_path="" />
+    </phpunit_settings>
+  </component>
 </application>
