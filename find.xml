@@ -14,7 +14,7 @@
     <mask>*.php</mask>
     <mask>*.blade.php</mask>
     <mask>*.scss</mask>
-    <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
