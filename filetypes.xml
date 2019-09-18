@@ -8,6 +8,7 @@
       <mapping pattern="artisan" type="PHP" />
       <mapping ext="php_cs" type="PHP" />
       <mapping pattern=".env.backup" type="PLAIN_TEXT" />
+      <mapping pattern="b25b0c7176a09e0862bc008150576f623b1e0168" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.copy" type="PLAIN_TEXT" />
