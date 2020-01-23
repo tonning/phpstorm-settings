@@ -4,6 +4,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
@@ -14,6 +15,7 @@
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
     <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>
