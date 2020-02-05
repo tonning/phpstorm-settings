@@ -2,7 +2,7 @@
   <component name="ExportableFileTemplateSettings">
     <default_templates>
       <template name="Blade༏ext༏.blade.php" reformat="true" live-template-enabled="true" />
-      <template name="Blade LEGO module༏ext༏.blade.php" reformat="false" live-template-enabled="true" />
+      <template name="Lego module༏ext༏.blade.php" reformat="false" live-template-enabled="true" />
       <template name="Renderless Vue Component.vue" reformat="false" live-template-enabled="false" />
       <template name="Vue Component.vue" reformat="true" live-template-enabled="true" />
     </default_templates>
