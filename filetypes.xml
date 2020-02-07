@@ -2,30 +2,29 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.css.liquid" type="CSS" />
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
       <mapping pattern="artisan" type="PHP" />
       <mapping ext="php_cs" type="PHP" />
-      <mapping pattern=".env.backup" type="PLAIN_TEXT" />
+      <mapping pattern=".env.copy" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="b25b0c7176a09e0862bc008150576f623b1e0168" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
-      <mapping pattern=".env.copy" type="PLAIN_TEXT" />
+      <mapping pattern=".env.backup" type="PLAIN_TEXT" />
       <mapping ext="org" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping pattern="conversation" type="SVG" />
       <mapping ext="liquid" type="Twig" />
       <mapping pattern=".env.spec.yml.backup" type="YAML" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="jenkinsfile" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="clBHHQKuuBGzhCPMH5oHJR4Ics0A7JzeIPfGVAKx" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="current" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="zd5XA1zuQDhoxt0sGeMSHLtypLWgSz5jeUf6wGwu" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="current" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="clBHHQKuuBGzhCPMH5oHJR4Ics0A7JzeIPfGVAKx" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="jenkinsfile" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
