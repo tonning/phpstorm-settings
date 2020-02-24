@@ -7,10 +7,12 @@
       <mapping pattern="artisan" type="PHP" />
       <mapping ext="php_cs" type="PHP" />
       <mapping pattern=".env.backup" type="PLAIN_TEXT" />
+      <mapping pattern="0a0cbce952baf0084720793075184cdc05145e80" type="PLAIN_TEXT" />
       <mapping pattern="b25b0c7176a09e0862bc008150576f623b1e0168" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="1c4fcf15cadd80e5d7f00df56475132bdc9061bc" type="PLAIN_TEXT" />
       <mapping pattern=".env.copy" type="PLAIN_TEXT" />
       <mapping ext="org" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
