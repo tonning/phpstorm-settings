@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="*.css.liquid" type="CSS" />
       <mapping pattern=".prettierrc" type="JSON" />
@@ -26,10 +26,10 @@
       <mapping ext="liquid" type="Twig" />
       <mapping pattern=".env.spec.yml.backup" type="YAML" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="zd5XA1zuQDhoxt0sGeMSHLtypLWgSz5jeUf6wGwu" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="current" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="clBHHQKuuBGzhCPMH5oHJR4Ics0A7JzeIPfGVAKx" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="current" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="jenkinsfile" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="zd5XA1zuQDhoxt0sGeMSHLtypLWgSz5jeUf6wGwu" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
