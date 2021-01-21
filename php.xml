@@ -318,9 +318,4 @@
   <component name="PhpSmartKeysConfiguration">
     <option name="smartFunctionParametersCompletion" value="true" />
   </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="dc4b84da-9504-4d54-8f25-8f8cd88d4137" custom_loader_path="/vagrant/packages/lego/vendor/autoload.php" />
-    </phpunit_settings>
-  </component>
 </application>
