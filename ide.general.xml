@@ -23,4 +23,11 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="php.language.level.widget" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
