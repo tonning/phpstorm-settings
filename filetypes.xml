@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="outline" type="AUTO_DETECTED" />
       <mapping pattern="*.css.liquid" type="CSS" />
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
