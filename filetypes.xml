@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="fUGPoXCaflgChKser83B4hP8GspLeLk25tp8oHEg" type="AUTO_DETECTED" />
+      <mapping pattern="iEQtIywJzXwPl9cpCsSacRfW2aWE884FbHYH1mKY" type="AUTO_DETECTED" />
       <mapping pattern="outline" type="AUTO_DETECTED" />
       <mapping pattern="*.css.liquid" type="CSS" />
       <mapping pattern=".prettierrc" type="JSON" />
