@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="fUGPoXCaflgChKser83B4hP8GspLeLk25tp8oHEg" type="AUTO_DETECTED" />
+      <mapping pattern="wyX9HCao9C7yUFvijMsKITmpGehCh5sJVIv49R3m" type="AUTO_DETECTED" />
       <mapping pattern="iEQtIywJzXwPl9cpCsSacRfW2aWE884FbHYH1mKY" type="AUTO_DETECTED" />
       <mapping pattern="outline" type="AUTO_DETECTED" />
       <mapping pattern="*.css.liquid" type="CSS" />
@@ -10,6 +11,7 @@
       <mapping pattern="artisan" type="PHP" />
       <mapping ext="php_cs" type="PHP" />
       <mapping pattern="b25b0c7176a09e0862bc008150576f623b1e0168" type="PLAIN_TEXT" />
+      <mapping pattern="3BUwT5TYhtiebsv4taif8J50gJG5SH2go2vEjPYm" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
