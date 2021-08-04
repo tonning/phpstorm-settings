@@ -1,20 +1,25 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="fUGPoXCaflgChKser83B4hP8GspLeLk25tp8oHEg" type="AUTO_DETECTED" />
+      <mapping pattern="iEQtIywJzXwPl9cpCsSacRfW2aWE884FbHYH1mKY" type="AUTO_DETECTED" />
+      <mapping pattern="outline" type="AUTO_DETECTED" />
       <mapping pattern="*.css.liquid" type="CSS" />
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
       <mapping pattern="artisan" type="PHP" />
       <mapping ext="php_cs" type="PHP" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="1c4fcf15cadd80e5d7f00df56475132bdc9061bc" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
-      <mapping pattern="0a0cbce952baf0084720793075184cdc05145e80" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="b25b0c7176a09e0862bc008150576f623b1e0168" type="PLAIN_TEXT" />
-      <mapping pattern=".env.copy" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern=".env.backup" type="PLAIN_TEXT" />
+      <mapping pattern="0a0cbce952baf0084720793075184cdc05145e80" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.copy" type="PLAIN_TEXT" />
+      <mapping pattern="1c4fcf15cadd80e5d7f00df56475132bdc9061bc" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="PLAIN_TEXT" />
       <mapping ext="org" type="PLAIN_TEXT" />
