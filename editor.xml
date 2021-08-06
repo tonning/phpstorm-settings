@@ -12,8 +12,6 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
     <option name="FONT_FAMILY" value="Operator Mono Lig" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Book" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Medium" />
     <option name="LINE_SPACING" value="1.6" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value=".SF NS Mono" />
@@ -57,6 +55,10 @@
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
