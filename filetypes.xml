@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="protected" type="AUTO_DETECTED" />
       <mapping pattern="ECURHSn8ES0y4ojMqxHFbJbwtqjpq4olX6IUobrn" type="AUTO_DETECTED" />
       <mapping pattern="outline" type="AUTO_DETECTED" />
       <mapping pattern="fUGPoXCaflgChKser83B4hP8GspLeLk25tp8oHEg" type="AUTO_DETECTED" />
