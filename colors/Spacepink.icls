@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2021-10-25T12:00:57</property>
+    <property name="modified">2022-01-20T21:18:19</property>
     <property name="originalScheme">Spacegray Operator Mono copy</property>
     <property name="vendorMail" />
     <property name="vendorName">Kristoffer Tonning</property>
@@ -413,7 +413,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="d08770" />
+        <option name="FOREGROUND" value="62bbc9" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -423,7 +423,7 @@
     </option>
     <option name="HTML_CODE">
       <value>
-        <option name="FOREGROUND" value="c0c5ce" />
+        <option name="FOREGROUND" value="e973d1" />
       </value>
     </option>
     <option name="HTML_COMMENT">
@@ -433,7 +433,7 @@
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="d08770" />
+        <option name="FOREGROUND" value="dc2b95" />
       </value>
     </option>
     <option name="HTML_TAG">
@@ -443,7 +443,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="bf616a" />
+        <option name="FOREGROUND" value="e973d1" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">

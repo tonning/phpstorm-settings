@@ -9,6 +9,7 @@
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_STATUS_BAR" value="false" />
-    <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="smoothScrolling" value="false" />
   </component>
 </application>
