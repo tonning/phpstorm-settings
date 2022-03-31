@@ -22,7 +22,7 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.blade.php</mask>
     <mask>*.php</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
