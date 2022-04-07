@@ -2,8 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="compactStatusBar" value="true" />
     <option name="contrastMode" value="true" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="premium" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
@@ -17,7 +15,7 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-2e12fd7d:165350a95e6:-7fff" />
-    <option name="version" value="6.9.1" />
+    <option name="version" value="6.13.0" />
     <option name="tabHighlightPosition" value="Top" />
   </component>
 </application>
