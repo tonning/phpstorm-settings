@@ -19,6 +19,7 @@
         <entry key="JSON" value="true" />
         <entry key="JavaScript" value="true" />
         <entry key="LESS" value="true" />
+        <entry key="Markdown" value="false" />
         <entry key="PHP" value="true" />
         <entry key="SASS" value="true" />
         <entry key="SCSS" value="true" />
@@ -34,6 +35,7 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
