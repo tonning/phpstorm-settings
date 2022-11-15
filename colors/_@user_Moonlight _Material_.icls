@@ -4,7 +4,7 @@
     <property name="created">2022-06-12T16:17:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-11-10T13:22:00</property>
+    <property name="modified">2022-11-15T21:13:21</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -335,7 +335,7 @@
         <option name="FOREGROUND" value="ffdb8e" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="7fdbca" />
