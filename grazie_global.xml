@@ -1,0 +1,16 @@
+<application>
+  <component name="GraziConfig">
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="have Blade" />
+            <option value="on all of the workers" />
+            <option value="model but you may" />
+            <option value="These middleware" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>

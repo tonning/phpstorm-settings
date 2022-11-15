@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="tonning" id="da4f8bd7-083d-4f74-99d9-baf601523551">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>

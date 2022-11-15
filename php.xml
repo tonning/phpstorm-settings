@@ -1,0 +1,326 @@
+<application>
+  <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" />
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="4fd8285b-0a19-4f41-a72a-9d1c2ea76084" name="Homestead PHP 7.3" home="vagrant://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VAGRANT_FOLDER="$USER_HOME$/Code/Homestead" />
+      </interpreter>
+      <interpreter id="dc4b84da-9504-4d54-8f25-8f8cd88d4137" name="Remote PHP 7.3" home="vagrant://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/helix/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VAGRANT_FOLDER="$USER_HOME$/Code/playground" />
+      </interpreter>
+      <interpreter id="0f8a649e-11fe-4a53-8015-379afafdb957" name="Valet" home="/opt/homebrew/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="2682ce5b-f1d1-4995-b17e-9704acccc40f" name="PHP 8.1" home="/opt/homebrew/opt/php@8.1/bin/php" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+  <component name="PhpInterpretersPhpInfoCache">
+    <phpInfoCache>
+      <interpreter name="Remote PHP 7.3">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.3" path_separator=":" remote_host="10.0.2.2" version="7.3.7-2+ubuntu18.04.1+deb.sury.org+1">
+          <additional_php_ini>/etc/php/7.3/cli/conf.d/10-mysqlnd.ini, /etc/php/7.3/cli/conf.d/10-opcache.ini, /etc/php/7.3/cli/conf.d/10-pdo.ini, /etc/php/7.3/cli/conf.d/15-xml.ini, /etc/php/7.3/cli/conf.d/20-bcmath.ini, /etc/php/7.3/cli/conf.d/20-bz2.ini, /etc/php/7.3/cli/conf.d/20-calendar.ini, /etc/php/7.3/cli/conf.d/20-ctype.ini, /etc/php/7.3/cli/conf.d/20-curl.ini, /etc/php/7.3/cli/conf.d/20-dom.ini, /etc/php/7.3/cli/conf.d/20-exif.ini, /etc/php/7.3/cli/conf.d/20-fileinfo.ini, /etc/php/7.3/cli/conf.d/20-ftp.ini, /etc/php/7.3/cli/conf.d/20-gd.ini, /etc/php/7.3/cli/conf.d/20-gettext.ini, /etc/php/7.3/cli/conf.d/20-iconv.ini, /etc/php/7.3/cli/conf.d/20-igbinary.ini, /etc/php/7.3/cli/conf.d/20-imagick.ini, /etc/php/7.3/cli/conf.d/20-imap.ini, /etc/php/7.3/cli/conf.d/20-intl.ini, /etc/php/7.3/cli/conf.d/20-json.ini, /etc/php/7.3/cli/conf.d/20-ldap.ini, /etc/php/7.3/cli/conf.d/20-mbstring.ini, /etc/php/7.3/cli/conf.d/20-msgpack.ini, /etc/php/7.3/cli/conf.d/20-mysqli.ini, /etc/php/7.3/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.3/cli/conf.d/20-pdo_pgsql.ini, /etc/php/7.3/cli/conf.d/20-pdo_sqlite.ini, /etc/php/7.3/cli/conf.d/20-pgsql.ini, /etc/php/7.3/cli/conf.d/20-phar.ini, /etc/php/7.3/cli/conf.d/20-posix.ini, /etc/php/7.3/cli/conf.d/20-readline.ini, /etc/php/7.3/cli/conf.d/20-shmop.ini, /etc/php/7.3/cli/conf.d/20-simplexml.ini, /etc/php/7.3/cli/conf.d/20-soap.ini, /etc/php/7.3/cli/conf.d/20-sockets.ini, /etc/php/7.3/cli/conf.d/20-sqlite3.ini, /etc/php/7.3/cli/conf.d/20-sysvmsg.ini, /etc/php/7.3/cli/conf.d/20-sysvsem.ini, /etc/php/7.3/cli/conf.d/20-sysvshm.ini, /etc/php/7.3/cli/conf.d/20-tokenizer.ini, /etc/php/7.3/cli/conf.d/20-wddx.ini, /etc/php/7.3/cli/conf.d/20-xmlreader.ini, /etc/php/7.3/cli/conf.d/20-xmlwriter.ini, /etc/php/7.3/cli/conf.d/20-xsl.ini, /etc/php/7.3/cli/conf.d/20-zip.ini, /etc/php/7.3/cli/conf.d/25-memcached.ini</additional_php_ini>
+          <configuration_file>/etc/php/7.3/cli/php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".:/usr/share/php" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
+            <extension name="bcmath" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="gettext" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="igbinary" />
+            <extension name="imagick" />
+            <extension name="imap" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="ldap" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="memcached" />
+            <extension name="msgpack" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcntl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_pgsql" />
+            <extension name="pdo_sqlite" />
+            <extension name="pgsql" />
+            <extension name="posix" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="shmop" />
+            <extension name="soap" />
+            <extension name="sockets" />
+            <extension name="sodium" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="sysvmsg" />
+            <extension name="sysvsem" />
+            <extension name="sysvshm" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHP 8.1">
+        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php/8.1.3.reinstall/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php/8.1.3.reinstall/bin/php" path_separator=":" version="8.1.3">
+          <additional_php_ini>/opt/homebrew/etc/php/8.1/conf.d/99-blackfire.ini, /opt/homebrew/etc/php/8.1/conf.d/error_log.ini, /opt/homebrew/etc/php/8.1/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/8.1/conf.d/php-memory-limits.ini</additional_php_ini>
+          <configuration_file>/opt/homebrew/etc/php/8.1/php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php/8.1.3/share/php/pear" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="FFI" />
+            <extension name="PDO" />
+            <extension name="PDO_ODBC" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
+            <extension name="bcmath" />
+            <extension name="blackfire" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dba" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="gettext" />
+            <extension name="gmp" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="ldap" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="odbc" />
+            <extension name="openssl" />
+            <extension name="pcntl" />
+            <extension name="pcre" />
+            <extension name="pdo_dblib" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_pgsql" />
+            <extension name="pdo_sqlite" />
+            <extension name="pgsql" />
+            <extension name="posix" />
+            <extension name="pspell" />
+            <extension name="readline" />
+            <extension name="redis" />
+            <extension name="session" />
+            <extension name="shmop" />
+            <extension name="soap" />
+            <extension name="sockets" />
+            <extension name="sodium" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="sysvmsg" />
+            <extension name="sysvsem" />
+            <extension name="sysvshm" />
+            <extension name="tidy" />
+            <extension name="tokenizer" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="Valet">
+        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php@8.0/8.0.20/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php@8.0/8.0.20/bin/php" path_separator=":" version="8.0.20">
+          <additional_php_ini>/opt/homebrew/etc/php/8.0/conf.d/99-blackfire.ini, /opt/homebrew/etc/php/8.0/conf.d/99-xdebug.ini, /opt/homebrew/etc/php/8.0/conf.d/error_log.ini, /opt/homebrew/etc/php/8.0/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/8.0/conf.d/php-memory-limits.ini</additional_php_ini>
+          <configuration_file>/opt/homebrew/etc/php/8.0/php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php@8.0/8.0.20/share/php@8.0/pear" />
+          </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="3.1.5">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="FFI" />
+            <extension name="PDO" />
+            <extension name="PDO_ODBC" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
+            <extension name="bcmath" />
+            <extension name="blackfire" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dba" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="gettext" />
+            <extension name="gmp" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="ldap" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="odbc" />
+            <extension name="openssl" />
+            <extension name="pcntl" />
+            <extension name="pcre" />
+            <extension name="pdo_dblib" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_pgsql" />
+            <extension name="pdo_sqlite" />
+            <extension name="pgsql" />
+            <extension name="phpdbg_webhelper" />
+            <extension name="posix" />
+            <extension name="pspell" />
+            <extension name="readline" />
+            <extension name="redis" />
+            <extension name="session" />
+            <extension name="shmop" />
+            <extension name="soap" />
+            <extension name="sockets" />
+            <extension name="sodium" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="sysvmsg" />
+            <extension name="sysvsem" />
+            <extension name="sysvshm" />
+            <extension name="tidy" />
+            <extension name="tokenizer" />
+            <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="Homestead PHP 7.3">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.3" path_separator=":" remote_host="10.0.2.2" version="7.3.6-1+ubuntu18.04.1+deb.sury.org+1">
+          <additional_php_ini>/etc/php/7.3/cli/conf.d/10-mysqlnd.ini, /etc/php/7.3/cli/conf.d/10-opcache.ini, /etc/php/7.3/cli/conf.d/10-pdo.ini, /etc/php/7.3/cli/conf.d/15-xml.ini, /etc/php/7.3/cli/conf.d/20-bcmath.ini, /etc/php/7.3/cli/conf.d/20-calendar.ini, /etc/php/7.3/cli/conf.d/20-ctype.ini, /etc/php/7.3/cli/conf.d/20-curl.ini, /etc/php/7.3/cli/conf.d/20-dom.ini, /etc/php/7.3/cli/conf.d/20-exif.ini, /etc/php/7.3/cli/conf.d/20-fileinfo.ini, /etc/php/7.3/cli/conf.d/20-ftp.ini, /etc/php/7.3/cli/conf.d/20-gd.ini, /etc/php/7.3/cli/conf.d/20-gettext.ini, /etc/php/7.3/cli/conf.d/20-iconv.ini, /etc/php/7.3/cli/conf.d/20-igbinary.ini, /etc/php/7.3/cli/conf.d/20-imap.ini, /etc/php/7.3/cli/conf.d/20-intl.ini, /etc/php/7.3/cli/conf.d/20-json.ini, /etc/php/7.3/cli/conf.d/20-ldap.ini, /etc/php/7.3/cli/conf.d/20-mbstring.ini, /etc/php/7.3/cli/conf.d/20-msgpack.ini, /etc/php/7.3/cli/conf.d/20-mysqli.ini, /etc/php/7.3/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.3/cli/conf.d/20-pdo_pgsql.ini, /etc/php/7.3/cli/conf.d/20-pdo_sqlite.ini, /etc/php/7.3/cli/conf.d/20-pgsql.ini, /etc/php/7.3/cli/conf.d/20-phar.ini, /etc/php/7.3/cli/conf.d/20-posix.ini, /etc/php/7.3/cli/conf.d/20-readline.ini, /etc/php/7.3/cli/conf.d/20-shmop.ini, /etc/php/7.3/cli/conf.d/20-simplexml.ini, /etc/php/7.3/cli/conf.d/20-soap.ini, /etc/php/7.3/cli/conf.d/20-sockets.ini, /etc/php/7.3/cli/conf.d/20-sqlite3.ini, /etc/php/7.3/cli/conf.d/20-sysvmsg.ini, /etc/php/7.3/cli/conf.d/20-sysvsem.ini, /etc/php/7.3/cli/conf.d/20-sysvshm.ini, /etc/php/7.3/cli/conf.d/20-tokenizer.ini, /etc/php/7.3/cli/conf.d/20-wddx.ini, /etc/php/7.3/cli/conf.d/20-xmlreader.ini, /etc/php/7.3/cli/conf.d/20-xmlwriter.ini, /etc/php/7.3/cli/conf.d/20-xsl.ini, /etc/php/7.3/cli/conf.d/20-zip.ini, /etc/php/7.3/cli/conf.d/25-memcached.ini</additional_php_ini>
+          <configuration_file>/etc/php/7.3/cli/php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".:/usr/share/php" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
+            <extension name="bcmath" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="gettext" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="igbinary" />
+            <extension name="imap" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="ldap" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="memcached" />
+            <extension name="msgpack" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcntl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_pgsql" />
+            <extension name="pdo_sqlite" />
+            <extension name="pgsql" />
+            <extension name="posix" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="shmop" />
+            <extension name="soap" />
+            <extension name="sockets" />
+            <extension name="sodium" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="sysvmsg" />
+            <extension name="sysvsem" />
+            <extension name="sysvshm" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+    </phpInfoCache>
+  </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="smartFunctionParametersCompletion" value="true" />
+  </component>
+</application>

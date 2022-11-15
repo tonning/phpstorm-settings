@@ -1,0 +1,10 @@
+<templateSet group="Laravel">
+  <template name="fac" value="factory($CLASS$)-&gt;$TYPE$($FIELDS$);$END$" description="Use factory" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="&quot;create&quot;" alwaysStopAt="true" />
+    <variable name="FIELDS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
